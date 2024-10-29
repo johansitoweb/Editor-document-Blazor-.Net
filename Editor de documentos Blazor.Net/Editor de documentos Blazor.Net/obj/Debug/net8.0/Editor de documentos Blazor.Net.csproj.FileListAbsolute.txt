@@ -1,0 +1,6 @@
+C:\Users\08\source\repos\Editor de documentos Blazor.Net\Editor de documentos Blazor.Net\obj\Debug\net8.0\Editor de documentos Blazor.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08\source\repos\Editor de documentos Blazor.Net\Editor de documentos Blazor.Net\obj\Debug\net8.0\Editor de documentos Blazor.Net.AssemblyInfoInputs.cache
+C:\Users\08\source\repos\Editor de documentos Blazor.Net\Editor de documentos Blazor.Net\obj\Debug\net8.0\Editor de documentos Blazor.Net.AssemblyInfo.cs
+C:\Users\08\source\repos\Editor de documentos Blazor.Net\Editor de documentos Blazor.Net\obj\Debug\net8.0\Editor de documentos Blazor.Net.csproj.CoreCompileInputs.cache
+C:\Users\08\source\repos\Editor de documentos Blazor.Net\Editor de documentos Blazor.Net\obj\Debug\net8.0\Editor_de_documentos_Blazor.Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\08\source\repos\Editor de documentos Blazor.Net\Editor de documentos Blazor.Net\obj\Debug\net8.0\Editor de documentos Blazor.Net.sourcelink.json
